@@ -1,0 +1,3 @@
+ansiblePlaybook colorized: true, 
+            playbook: '/usr/bin/playbook/apache1.yml', 
+            sudo: true,
